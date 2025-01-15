@@ -1,1 +1,1 @@
-rotating and resizing image in R
+# rotating and resizing image in R
